@@ -1,0 +1,11 @@
+# label  index
+GAMMA  0
+M  20
+K  40
+GAMMA  60
+A  80
+L  100
+H  120
+L  140
+H  160
+K  180
