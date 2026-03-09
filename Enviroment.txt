@@ -1,0 +1,6 @@
+conda activate materiales
+python Seek.py
+
+conda deactivate
+#tambien se tiene que cambiar el python interpreter en command palette y seleccionar el que quieras
+
